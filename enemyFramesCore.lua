@@ -1,7 +1,9 @@
 
 local playerFaction
 local bgs = {['Warsong Gulch'] = 10, 
-			 ['Arathi Basin'] = 15, 
+		['Arathi Basin'] = 15, 
+	--add turtlewow bloodring
+		['Blood Ring'] = 2,
 			 --['Alterac Valley'] = 40
 			 }
 -- TIMERS
